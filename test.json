@@ -1,5 +1,5 @@
 {
-	"file": "https://github.com/jipsi/test/blob/325e54c8e9f2e88239fbdc7cebdcde0465796ced/test.csv",
+	"file": "https://raw.githubusercontent.com/jipsi/test/main/test.csv",
 	"name": "Online Movies Genres ",
 	"header": 0,
 	"separator": ";",
