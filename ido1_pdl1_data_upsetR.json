@@ -1,13 +1,13 @@
 {
 	"file": "https://raw.githubusercontent.com/jipsi/test/8c97e46faa7a22beea20c93c6005fc2912477cba/ido1_pdl1_data_upsetR.csv",
 	"name": "IDO1 PDL1",
-	"header": 1,
+	"header": 0,
 	"separator": ",",
 	"skip": 0,
 	"meta": [
-		{ "type": "id", "index": 0, "name": "from" },
+		{ "type": "id", "index": 0, "name": "Name" },
 	],
 	"sets": [
-		{ "format": "binary", "start": 2, "end": 35 }
+		{ "format": "binary", "start": 1, "end": 35 }
 	]
 }
