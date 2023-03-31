@@ -1,0 +1,13 @@
+{
+	"file": "https://drive.google.com/file/d/1YHBCh0xnFCAyuyRk3OpuFg5gb1R_MSOD/",
+	"name": "IDO1 PDL1",
+	"header": 1,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "from" },
+	],
+	"sets": [
+		{ "format": "binary", "start": 2, "end": 35 }
+	]
+}
